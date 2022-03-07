@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <!--Main Activity-->
+    <string name="toQuizBtn">Take Quiz</string>
+    <string name="toDbBtn">To Database</string>
+
+    <!--Add Activity-->
+    <string name="namePlaceHolder">Animal</string>
+    <string name="imagePlaceholder">Image</string>
+    <string name="addButton_txt">Add</string>
+
+    <!--Quiz Activity-->
+    <string name="quizHeading">Quiz</string>
+    <string name="guessTextPlaceholder">Animal</string>
+    <string name="guessButtonText">Guess</string>
+    <string name="scoreText">Your score:</string>
+    <string name="scoreNumber">0</string>
+
+    <!-- List item  -->
+    <string name="removeBtn">Remove button</string>
+    <string name="dbImage">Image</string>
+    <string name="dbName">Animal</string>
+</resources>
